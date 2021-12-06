@@ -10,5 +10,4 @@ const humanCatDogYears = number => {
         return [number, catYears, dogYears];
     }
 };
-
 module.exports = humanCatDogYears;

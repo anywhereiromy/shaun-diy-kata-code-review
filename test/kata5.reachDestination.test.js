@@ -6,6 +6,5 @@ describe("reachDestination", () => {
     expect(reachDestination(46,10)).toEqual('I should be there in 5 hours');
     expect(reachDestination(92,10)).toEqual('I should be there in 9.5 hours');
     expect(reachDestination(96,10)).toEqual('I should be there in 10 hours');
-
   });
 });
